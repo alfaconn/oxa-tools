@@ -75,7 +75,7 @@
             "value": 1
         },
         "oxaToolsGithubAccountName": {
-            "value": "oxatst"
+            "value": "alfaconn"
         },
         "oxaToolsGithubProjectName": {
             "value": "oxa-tools"
@@ -84,7 +84,7 @@
             "value": "oxa/master.fic"
         },
         "edxConfigurationGithubAccountName": {
-            "value": "oxatst"
+            "value": "alfaconn"
         },
         "edxConfigurationGithubProjectName": {
             "value": "edx-configuration"
@@ -93,7 +93,7 @@
             "value": "oxa/master.fic"
         },
         "edxPlatformGithubAccountName": {
-            "value": "oxatst"
+            "value": "alfaconn"
         },
         "edxPlatformGithubProjectName": {
             "value": "edx-platform"
@@ -102,7 +102,7 @@
             "value": "oxa/master.fic"
         },
         "edxThemeGithubAccountName": {
-            "value": "oxatst"
+            "value": "alfaconn"
         },
         "edxThemeGithubProjectName": {
             "value": "edx-theme"
@@ -242,7 +242,7 @@
             "value": true
         },
         "comprehensiveThemingDirectory": {
-            "value": "/edx/app/edxapp/edx-platform/themes"
+            "value": "/edx/app/edxapp/edx-platform/lms/templates"
         },
         "comprehensiveThemingName": {
             "value": "comprehensive"

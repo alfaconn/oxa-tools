@@ -17,9 +17,9 @@ ENVIRONMENT=bvt
 
 # the site certificate files (.crt & .key) have to be named after the BASE_URL value
 BASE_URL=cloudswyft.com 
-LMS_URL=lmsoxa.$BASE_URL
-CMS_URL=cmsoxa.$BASE_URL
-PREVIEW_URL=previewoxa.$BASE_URL
+LMS_URL=alfacon.$BASE_URL
+CMS_URL=alfaconstudio.$BASE_URL
+PREVIEW_URL=preview.$BASE_URL
 
 # deployment configuration
 # URL-building will be replaced by the use of LMS_URL | CMS_URL (above)

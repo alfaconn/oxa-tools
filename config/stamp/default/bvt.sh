@@ -19,7 +19,7 @@ ENVIRONMENT=bvt
 BASE_URL=cloudswyft.com 
 LMS_URL=alfacon.$BASE_URL
 CMS_URL=alfaconstudio.$BASE_URL
-PREVIEW_URL=preview.$BASE_URL
+PREVIEW_URL=alfaconpreview.$BASE_URL
 
 # deployment configuration
 # URL-building will be replaced by the use of LMS_URL | CMS_URL (above)
